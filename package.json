@@ -1,0 +1,19 @@
+{
+  "name": "lazyload-chunks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "intersection-observer": "^0.12.2",
+    "path": "^0.12.7"
+  }
+}
